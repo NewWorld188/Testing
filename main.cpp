@@ -12,5 +12,7 @@ int main(int argc, char *argv[])
 
     cout<<"this is a testing 1"<<endl;
 
+    cout<<"this is a testing 2"<<endl;
+
     return a.exec();
 }
